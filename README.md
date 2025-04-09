@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 Hi! I'm a full-stack developer with a background in **Computer Engineering** and **Statistics**, focused on crafting scalable, cloud-native web applications.  
-Currently an intern at **Telenor Norge**, previously at **Darcblue AG** and more — I thrive in building both robust backend systems and intuitive frontends.
+Currently at **Telenor Norge**, previously at **Darcblue AG** and more — I thrive in building both robust backend systems and intuitive frontends.
 
 - 🔧 **Stack**: React, Vue, Java/Kotlin, Spring Boot, Node.js, Azure  
 - 🚀 **Exploring**: Microservices, Serverless, Azure Cosmos DB  
